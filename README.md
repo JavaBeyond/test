@@ -1,2 +1,2 @@
 # test
-测试git将本地文件上传到GitHub
+测试git将本地文件同步到GitHub
